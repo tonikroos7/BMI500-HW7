@@ -1,7 +1,9 @@
 # HW4 — Biopotential Modeling and Synthetic ECG Generation
 
 **Name:** Haoyue Guan
+
 **Email:** hguan28@emory.edu 
+
 **Question:** HW4 — Biopotential Modeling and Synthetic ECG Generation   
 
 ## How to run
